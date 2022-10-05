@@ -1,0 +1,29 @@
+.spacer{
+    margin-left: .25%;
+    margin-right: .25%;
+    margin-top: .25%;
+    margin-bottom: .25%;
+}
+
+.movieImages{
+    width: 250;
+    height: 250;
+}
+
+.main{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.formCheck{
+    text-align: left;
+}
+
+.options{
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 72.5%;
+}
